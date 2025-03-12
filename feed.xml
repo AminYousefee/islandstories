@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title><![CDATA[‌Island Stories | پادکست داستان های جزیره]]></title>
+		<description><![CDATA[A Persian podcast for the Persian community of Vancouver Island]]></description>
+		<link>https://studentweb.uvic.ca/~aminyousefii/</link>
+		<image>
+			<url>https://raw.githubusercontent.com/AminYousefee/islandstories/refs/heads/main/logo.jpg</url>
+			<title>Island Stories | پادکست داستان های جزیره</title>
+			<link>https://studentweb.uvic.ca/~aminyousefii/</link>
+		</image>
+		<generator>Amin Yousefi</generator>
+		<lastBuildDate>Tue, 12 Mar 2025 12:00:00 GMT</lastBuildDate>
+		<atom:link href="https://raw.githubusercontent.com/AminYousefee/islandstories/main/feed.xml" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Island Stories]]></author>
+		<copyright><![CDATA[Island Stories]]></copyright>
+		<language><![CDATA[fa-fa]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Island Stories</itunes:author>
+		<itunes:summary>The concerns of a young immigrant from Iran</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Island Stories</itunes:name>
+			<itunes:email>podcastislandstories@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Education">
+			<itunes:category text="Self-Improvement"/>
+		</itunes:category>
+		<itunes:image href="https://raw.githubusercontent.com/AminYousefee/islandstories/main/logo.jpg"/>
+		<item>
+			<title><![CDATA[Episode 1: Our First Day in This Land]]></title>
+            <description><![CDATA[Our first day in Canada and places we visited on holidays.
+            Musics used in this podcast:
+                        
+                The Poet, Golsa Rahim Zamani & Mohammad Mousasavi
+                Emshow ShowShe :)), Farshad Fakhar
+                Last of My Kind, Shaboozey]]></description>
+			<link>https://studentweb.uvic.ca/~aminyousefii</link>
+			<guid>https://studentweb.uvic.ca/~aminyousefii/podcast/E01.mp3</guid>
+			<dc:creator><![CDATA[Island Stories Podcast]]></dc:creator>
+			<pubDate>Tue, 05 Mar 2025 12:00:00 GMT</pubDate>
+			<enclosure url="https://studentweb.uvic.ca/~aminyousefii/podcast/E01.mp3" length="62589205" type="audio/mpeg"/>
+			<itunes:summary>Our first day in Canada and places we visited on holidays.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:04:45</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/AminYousefee/islandstories/main/logo.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 2: Relationship and Friendship in Canada]]></title>
+			<description><![CDATA[Building connections and the history of Vancouver Island.
+            Musics used in this podcast:
+            
+                Nime Shab, Farshad Fakhar
+                Ghamzeh, Sam Goharbin
+                Nemidunestom, Milad Bagheri
+                Shabe Aghoosh, Milad Bagheri]]></description>
+			<link>https://studentweb.uvic.ca/~aminyousefii</link>
+			<guid>https://studentweb.uvic.ca/~aminyousefii/podcast/E02.mp3</guid>
+			<dc:creator><![CDATA[Island Stories Podcast]]></dc:creator>
+			<pubDate>Tue, 12 Mar 2025 12:00:00 GMT</pubDate>
+			<enclosure url="https://studentweb.uvic.ca/~aminyousefii/podcast/E02.mp3" length="48144839" type="audio/mpeg"/>
+			<itunes:summary>Building connections and the history of Vancouver Island.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:49:42</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/AminYousefee/islandstories/main/logo.jpg"/>
+		</item>
+	</channel>
+</rss>

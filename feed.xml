@@ -64,5 +64,24 @@
 			<itunes:duration>00:49:42</itunes:duration>
 			<itunes:image href="https://raw.githubusercontent.com/AminYousefee/islandstories/main/logo.jpg"/>
 		</item>
+		<item>
+			<title><![CDATA[Episode 3: From Ski Slopes to Slip-Ups!]]></title>
+			<description><![CDATA[Classic awkward moments and funny blunders we’ve had here.
+            Musics used in this podcast:
+            
+                Norouz, Setayesh Sadeghzadeh
+                Man ham delam tange, Ghazal Lotfi
+                Sar oomad zemestoon, Bita Izad
+                Navayee, Sara Nayini]]></description>
+			<link>https://studentweb.uvic.ca/~aminyousefii</link>
+			<guid>https://studentweb.uvic.ca/~aminyousefii/podcast/E03.mp3</guid>
+			<dc:creator><![CDATA[Island Stories Podcast]]></dc:creator>
+			<pubDate>Wed, 26 Mar 2025 12:00:00 GMT</pubDate>
+			<enclosure url="https://studentweb.uvic.ca/~aminyousefii/podcast/E03.mp3" length="70103637" type="audio/mpeg"/>
+			<itunes:summary>Classic awkward moments and funny blunders we’ve had here.</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:11:11</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/AminYousefee/islandstories/main/logo.jpg"/>
+		</item>
 	</channel>
 </rss>
